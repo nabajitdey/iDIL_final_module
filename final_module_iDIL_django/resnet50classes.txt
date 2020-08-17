@@ -1,0 +1,74 @@
+ambulance
+analog clock
+apron
+barbell
+bathing cap
+bath towel
+bathtub
+bottle
+beer bottle
+beer glass
+broom
+bucket
+cup
+buckle
+candle
+cassette
+dining table
+cassette player
+CD player
+cinema
+coffee mug
+coffeepot
+coil
+combination lock
+cradle
+dial telephone
+diaper
+digital clock
+doormat
+dumbbell
+Dutch oven
+electric fan
+espresso maker
+face powder
+folding chair
+grand piano
+hair spray
+hand blower
+horizontal bar
+lampshade
+laptop
+letter opener
+lighter
+lotion
+loudspeaker
+mask
+matchstick
+modem
+mosquito net
+oxygen mask
+packet
+paper towel
+radiator
+radio
+refrigerator
+remote control
+sandal
+screwdriver
+shower cap
+table lamp
+teapot
+teddy
+television
+tennis ball
+thatch
+toaster
+torch
+umbrella
+vacuum
+vase
+water bottle
+water jug
+whiskey jug
+toilet tissue

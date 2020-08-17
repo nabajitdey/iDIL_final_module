@@ -1,0 +1,317 @@
+airfield
+airplane cabin
+airport terminal
+alcove
+alley
+amphitheater
+amusement arcade
+amusement park
+apartment building
+outdoor apartment building
+aquarium
+aqueduct
+arcade
+arch
+archaelogical excavation
+archive
+arena
+hockey arena
+performance arena
+rodeo arena
+army base
+art gallery
+art school
+art studio
+artists loft
+athletic field
+outdoor athletic field
+auditorium
+bakery
+shop bakery
+balcony
+exterior balcony
+interior balcony
+ball pit
+ballroom
+bamboo forest
+banquet hall
+bar
+barn
+barndoor
+baseball field
+basement
+basketball court
+indoor basketball court
+bathroom
+bazaar
+indoor bazaar
+outdoor bazaar
+beach
+beach house
+beauty salon
+bedchamber
+bedroom
+beer garden
+beer hall
+boat deck
+boathouse
+bookstore
+booth
+indoor booth
+botanical garden
+bow window
+indoor bow window
+bowling alley
+boxing ring
+bridge
+bullring
+bus interior
+bus station
+indoor bus station
+cafeteria
+campsite
+canal
+natural canal
+urban canal
+candy store
+canyon
+castle
+cemetery
+childs room
+church
+indoor church
+outdoor church
+clean room
+cliff
+closet
+clothing store
+coast
+cockpit
+coffee shop
+computer room
+conference center
+conference room
+corn field
+corral
+cottage
+dam
+department store
+desert
+sand desert
+vegetation desert
+desert road
+diner
+outdoor diner
+dining hall
+dining room
+dorm room
+dressing room
+driveway
+drugstore
+elevator
+door elevator
+elevator lobby
+embassy
+escalator
+indoor escalator
+farm
+fastfood restaurant
+field
+cultivated field
+wild field
+fishpond
+flea market
+indoor flea market
+florist shop
+indoor florist shop
+food court
+football field
+forest
+broadleaf forest
+forest path
+forest road
+formal garden
+fountain
+galley
+garage
+indoor garage
+outdoor garage
+gas station
+general store
+indoor general store
+outdoor general store
+gift shop
+glacier
+golf course
+greenhouse
+indoor greenhouse
+outdoor greenhouse
+grotto
+gymnasium
+indoor gymnasium
+harbor
+hardware store
+hayfield
+heliport
+home theater
+hospital
+hospital room
+hot spring
+hunting lodge
+outdoor hunting lodge
+ice cream parlor
+ice floe
+ice shelf
+ice skating rink
+indoor ice skating rink
+outdoor ice skating rink
+iceberg
+igloo
+jacuzzi
+indoor jacuzzi
+jail cell
+japanese garden
+jewelry shop
+kasbah
+kennel
+outdoor kennel
+kindergarden classroom
+kitchen
+lagoon
+lake
+natural lake
+lawn
+library
+indoor library
+outdoor library
+lighthouse
+living room
+locker room
+market
+indoor market
+outdoor market
+martial arts gym
+mausoleum
+medina
+mezzanine
+moat
+water moat
+mosque
+outdoor mosque
+motel
+mountain
+mountain path
+mountain snowy
+movie theater
+indoor movie theater
+museum
+indoor museum
+outdoor museum
+music studio
+natural history museum
+nursery
+nursing home
+ocean
+orchard
+orchestra pit
+pagoda
+palace
+pantry
+park
+parking garage
+indoor parking garage
+outdoor parking garage
+parking lot
+pasture
+patio
+pavilion
+pet shop
+pharmacy
+phone booth
+physics laboratory
+picnic area
+pier
+pizzeria
+playground
+playroom
+plaza
+pond
+porch
+promenade
+pub
+indoor pub
+racecourse
+raft
+rainforest
+reception
+recreation room
+repair shop
+restaurant
+restaurant kitchen
+restaurant patio
+rice paddy
+river
+rock arch
+roof garden
+rope bridge
+sauna
+science museum
+shopping mall
+indoor shopping mall
+shower
+ski resort
+ski slope
+soccer field
+stadium
+baseball stadium
+football stadium
+soccer stadium
+stage
+indoor stage
+outdoor stage
+subway station
+platform subway station
+supermarket
+sushi bar
+swimming hole
+swimming pool
+indoor swimming pool
+outdoor swimming pool
+synagogue
+outdoor synagogue
+television room
+television studio
+temple
+asia temple
+topiary garden
+tower
+toyshop
+train station
+platform train station
+tree farm
+tree house
+tundra
+underwater
+ocean deep underwater
+utility room
+valley
+vegetable garden
+veterinarians office
+viaduct
+village
+volleyball court
+vineyard
+volcano
+outdoor volleyball court
+waiting room
+water park
+water tower
+waterfall
+watering hole
+wave
+wet bar
+wheat field
+wind farm
+windmill
+yard
+zen garden

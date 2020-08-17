@@ -1,0 +1,12 @@
+django
+numpy
+opencv-python
+djangorestframework
+psycopg2
+glob2
+matplotlib
+tensorflow==1.14.0
+keras==2.2.5
+scikit-learn==0.20.4
+gensim
+beautifulsoup4
